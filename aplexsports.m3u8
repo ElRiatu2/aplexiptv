@@ -43,8 +43,14 @@ https://wp9xqedt.fubohd.com/tycsports/mono.m3u8?token=9f95e9e55387b153939fb7a175
 https://99a1.crackstreamslivehd.com/tntsports/tracks-v1a1/mono.m3u8?ip=187.140.225.222&token=8900a85218e5919df029ae4ccc7ca6e5732cb16b-27-1764351930-1764297930
 #EXTINF:-1 tvg-id="aymsports" tvg-name="AyM Sports" tvg-logo="https://aymsports.net/wp-content/themes/aym-sports/assets/images/logo.png" group-title="GRUPO",AyM Sports
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
-
-
+#EXTINF:-1 tvg-id="ESPN2USA" tvg-name="ESPN 2 (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="GRUPO",ESPN 2 (USA)
+http://fl2.moveonjoy.com/ESPN_2/index.m3u8
+#EXTINF:-1 tvg-id="FS1" tvg-name="FS1 (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="GRUPO",FS1 (USA)
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="CLARO" tvg-name="Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1600px-Claro_Sports_logo.svg.png" group-title="GRUPO",Claro Sports
+https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
+#EXTINF:-1 tvg-id="ITV" tvg-name="ITV Deportes" tvg-logo="https://www.lg.com/content/dam/channel/wcms/mx/2025/march/lg-channels/imágenes-actualizadas/deportes/03_Deportes_ITV-Deportes_001.png" group-title="GRUPO",ITV Deportes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
 
 
 
