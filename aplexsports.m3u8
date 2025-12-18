@@ -14,21 +14,21 @@ https://agvyby.fubohd.com/espn6/mono.m3u8?token=50c723561de9a0b04a7afdaaa6be8be5
 #EXTINF:-1 tvg-id="espn7" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="GRUPO",ESPN 7
 https://agvyby.fubohd.com/espn7/2025/11/29/17/02/15-06006.ts?token=b196b7712bec97a59ef56a1488babd9cde9c97a3-c-1764452790-1764434790
 #EXTINF:-1 tvg-id="espnpremium" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ESPN_Premium_logo.svg/2560px-ESPN_Premium_logo.svg.png" group-title="GRUPO",ESPN Premium
-https://tyg2mnl9.fubohd.com/espnpremium/mono.m3u8?token=cd3143f6e007d98b5006daf0e316eb74dd8c9668-ad-1764452842-1764434842
+http://pixelmax.link:8085/Ladyvillares57389/8374847372/99753
 #EXTINF:-1 tvg-id="foxsportsar" tvg-name="Fox Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="GRUPO",Fox Sports Argentina
-https://ym9yzq.fubohd.com/foxsports/mono.m3u8?token=953b0425da1d4a1a8790212b00615f8bf8ff9297-2f-1764452877-1764434877
+http://pixelmax.link:8085/Ladyvillares57389/8374847372/671754
 #EXTINF:-1 tvg-id="foxsportsar2" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="GRUPO",Fox Sports 2 Argentina
 https://x4bnd7lq.fubohd.com/foxsports3/mono.m3u8?token=10db787ba5e23a1540e35229e2838438276a9038-10-1764453697-1764435697
 #EXTINF:-1 tvg-id="foxsportsar3" tvg-name="Fox Sports 3 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png" group-title="GRUPO",Fox Sports 3 Argentina
-https://qzv4jmsc.fubohd.com/foxsports3/mono.m3u8?token=879d0f994045f63530e06649b0e7d3835f1df226-2e-1764321945-1764303945
+http://pixelmax.link:8085/Ladyvillares57389/8374847372/701271
 #EXTINF:-1 tvg-id="espn2mx" tvg-name="ESPN 2 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="GRUPO",ESPN 2 México
 https://ym9yzq.fubohd.com/espn2mx/mono.m3u8?token=9348e44ae3c6957aebe073fca5a33444b9ebe837-92-1764452613-1764434613
 #EXTINF:-1 tvg-id="espn3mx" tvg-name="ESPN 3 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="GRUPO",ESPN 3 México
 https://tyg2mnl9.fubohd.com/espn3mx/mono.m3u8?token=9b6c00fc86386762729b4a14640e017927d357c7-4b-1764452673-1764434673
 #EXTINF:-1 tvg-id="foxsportsmx" tvg-name="Fox Sports México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/2560px-FOX_Sports_logo.svg.png" group-title="GRUPO",Fox Sports México
-https://a2vlca.fubohd.com/foxsportsmx/mono.m3u8?token=8d2c6b9d803c9ad906378379e5de32da060b5c8b-36-1764452935-1764434935
+http://pixelmax.link:8085/Ladyvillares57389/8374847372/675656
 #EXTINF:-1 tvg-id="foxsport2smx" tvg-name="Fox Sports 2 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/2560px-Fox_sports_2_logo.svg.png" group-title="GRUPO",Fox Sports 2 México
-https://x4bnd7lq.fubohd.com/foxsports3/mono.m3u8?token=10db787ba5e23a1540e35229e2838438276a9038-10-1764453697-1764435697
+http://pixelmax.link:8085/Ladyvillares57389/8374847372/397957
 #EXTINF:-1 tvg-id="foxsport3smx" tvg-name="Fox Sports 3 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="GRUPO",Fox Sports 3 México
 https://bgfuzq.fubohd.com/foxsports3mx/mono.m3u8?token=8273c5c520d5695a242e57f3621d121f5ba72092-84-1764453720-1764435720
 #EXTINF:-1 tvg-id="foxsportspremium" tvg-name="Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="GRUPO",Fox Sports Premium
@@ -53,7 +53,8 @@ https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
 #EXTINF:-1 tvg-id="TELEMUNDOPR" tvg-name="Telemundo Puerto Rico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/WKAQ-TV2_%28Telemundo_Puerto_Rico_2018%29.svg/revision/latest/scale-to-width-down/200?cb=20210112173713" group-title="GRUPO",Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
+#EXTINF:-1 tvg-id="TUDNUSA" tvg-name="TUDN (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="GRUPO",TUDN (USA)
+http://pixelmax.link:8085/Ladyvillares57389/8374847372/685976
 
 
 
