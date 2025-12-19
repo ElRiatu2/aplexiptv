@@ -39,23 +39,23 @@ http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/387929
 https://bgfuzq.fubohd.com/dsports2/mono.m3u8?token=fe43933e171ff40b9cdff78a62ab1b3cc4d34204-2a-1764323420-1764305420
 #EXTINF:-1 tvg-id="tycsports" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/TyCSp.png" group-title="Deportes",TyC Sports
 https://wp9xqedt.fubohd.com/tycsports/mono.m3u8?token=9f95e9e55387b153939fb7a175ba7608521fc008-69-1764323635-1764305635
-#EXTINF:-1 tvg-id="tntsportsarg" tvg-name="TNT Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="GRUPO",TNT Sports
+#EXTINF:-1 tvg-id="tntsportsarg" tvg-name="TNT Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TNT_Sports_Premium_%28Argentina%29.png" group-title="Deportes",TNT Sports
 http://yshoots.com:80/live/8603954198/2330968616/275002.ts
-#EXTINF:-1 tvg-id="aymsports" tvg-name="AyM Sports" tvg-logo="https://aymsports.net/wp-content/themes/aym-sports/assets/images/logo.png" group-title="GRUPO",AyM Sports
+#EXTINF:-1 tvg-id="aymsports" tvg-name="AyM Sports" tvg-logo="https://aymsports.net/wp-content/themes/aym-sports/assets/images/logo.png" group-title="Deportes",AyM Sports
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
-#EXTINF:-1 tvg-id="ESPN2USA" tvg-name="ESPN 2 (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="GRUPO",ESPN 2 (USA)
+#EXTINF:-1 tvg-id="ESPN2USA" tvg-name="ESPN 2 (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 (USA)
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 tvg-id="FS1" tvg-name="FS1 (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="GRUPO",FS1 (USA)
+#EXTINF:-1 tvg-id="FS1" tvg-name="FS1 (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="Deportes",FS1 (USA)
 http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="CLARO" tvg-name="Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1600px-Claro_Sports_logo.svg.png" group-title="GRUPO",Claro Sports
+#EXTINF:-1 tvg-id="CLARO" tvg-name="Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1600px-Claro_Sports_logo.svg.png" group-title="Deportes",Claro Sports
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
-#EXTINF:-1 tvg-id="ITV" tvg-name="ITV Deportes" tvg-logo="https://www.lg.com/content/dam/channel/wcms/mx/2025/march/lg-channels/imágenes-actualizadas/deportes/03_Deportes_ITV-Deportes_001.png" group-title="GRUPO",ITV Deportes
+#EXTINF:-1 tvg-id="ITV" tvg-name="ITV Deportes" tvg-logo="https://www.lg.com/content/dam/channel/wcms/mx/2025/march/lg-channels/imágenes-actualizadas/deportes/03_Deportes_ITV-Deportes_001.png" group-title="Deportes",ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
-#EXTINF:-1 tvg-id="TELEMUNDOPR" tvg-name="Telemundo Puerto Rico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/WKAQ-TV2_%28Telemundo_Puerto_Rico_2018%29.svg/revision/latest/scale-to-width-down/200?cb=20210112173713" group-title="GRUPO",Telemundo Puerto Rico
+#EXTINF:-1 tvg-id="TELEMUNDOPR" tvg-name="Telemundo Puerto Rico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/WKAQ-TV2_%28Telemundo_Puerto_Rico_2018%29.svg/revision/latest/scale-to-width-down/200?cb=20210112173713" group-title="Deportes",Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 tvg-id="TUDNUSA" tvg-name="TUDN (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="GRUPO",TUDN (USA)
+#EXTINF:-1 tvg-id="TUDNUSA" tvg-name="TUDN (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (USA)
 http://pixelmax.link:8085/Ladyvillares57389/8374847372/685976
-#EXTINF:-1 tvg-id="DAZNF1" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="GRUPO",DAZN F1
+#EXTINF:-1 tvg-id="DAZNF1" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Deportes",DAZN F1
 http://yshoots.com:80/live/8603954198/2330968616/497118.ts
 #EXTINF:-1 tvg-id="DAZNLALIGA" tvg-name="DAZN LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/DAZN_LALIGA_2024_logo.svg/1200px-DAZN_LALIGA_2024_logo.svg.png" group-title="GRUPO",DAZN LaLiga
 http://yshoots.com:80/live/8603954198/2330968616/497096.ts
