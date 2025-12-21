@@ -28,13 +28,13 @@ http://yuniott.xyz/W9G5594/7KZL4WT/1028360
 #EXTINF:-1 tvg-id="espn3mx" tvg-name="ESPN 3 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 México
 http://yuniott.xyz/W9G5594/7KZL4WT/140259
 #EXTINF:-1 tvg-id="foxsportsmx" tvg-name="Fox Sports México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/2560px-FOX_Sports_logo.svg.png" group-title="Deportes",Fox Sports México
-http://pixelmax.link:8085/Ladyvillares57389/8374847372/675656
+http://yuniott.xyz/W9G5594/7KZL4WT/140278
 #EXTINF:-1 tvg-id="foxsport2smx" tvg-name="Fox Sports 2 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/2560px-Fox_sports_2_logo.svg.png" group-title="Deportes",Fox Sports 2 México
 http://pixelmax.link:8085/Ladyvillares57389/8374847372/397957
 #EXTINF:-1 tvg-id="foxsport3smx" tvg-name="Fox Sports 3 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="Deportes",Fox Sports 3 México
 http://yuniott.xyz/W9G5594/7KZL4WT/1028355
 #EXTINF:-1 tvg-id="foxsportspremium" tvg-name="Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="Deportes",Fox Sports Premium
-http://pixelmax.link:8085/Ladyvillares57389/8374847372/690528
+http://yuniott.xyz/W9G5594/7KZL4WT/1028356
 #EXTINF:-1 tvg-id="directvsports" tvg-name="Direct TV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",Direct TV Sports
 http://yuniott.xyz/W9G5594/7KZL4WT/325570
 #EXTINF:-1 tvg-id="directvsports2" tvg-name="Direct TV Sports 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/skuq0t1642114108.png" group-title="Deportes",Direct TV Sports 2
@@ -57,14 +57,18 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="TUDNUSA" tvg-name="TUDN (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (USA)
 http://pixelmax.link:8085/Ladyvillares57389/8374847372/685976
+#EXTINF:-1 tvg-id="TUDNMX" tvg-name="TUDN (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (MX)
+http://yuniott.xyz/W9G5594/7KZL4WT/1028371
 #EXTINF:-1 tvg-id="DAZNF1" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Deportes",DAZN F1
 http://yuniott.xyz/W9G5594/7KZL4WT/1124014
 #EXTINF:-1 tvg-id="DAZNLALIGA" tvg-name="DAZN LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/DAZN_LALIGA_2024_logo.svg/1200px-DAZN_LALIGA_2024_logo.svg.png" group-title="Deportes",DAZN LaLiga
-http://yshoots.com:80/live/8603954198/2330968616/497096.ts
+http://yuniott.xyz/W9G5594/7KZL4WT/309042
 #EXTINF:-1 tvg-id="DAZNLALIGA2" tvg-name="DAZN LaLiga 2" tvg-logo="https://epg.pw/media/images/epg/2024/12/16/20241216020732500184_38.png" group-title="Deportes",DAZN La Liga 2
-http://yshoots.com:80/live/8603954198/2330968616/497097.ts
+http://yuniott.xyz/W9G5594/7KZL4WT/975899
 #EXTINF:-1 tvg-id="MOVISTARLIGADECAMPEONES" tvg-name="Movistar Liga De Campeones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1280px-Movistar_Liga_de_Campeones.svg.png" group-title="Deportes",Movistar Liga De Campeones
-http://yshoots.com:80/live/8603954198/2330968616/497139.ts
+http://yuniott.xyz/W9G5594/7KZL4WT/1027138
+#EXTINF:-1 tvg-id="WWECHANNEL" tvg-name="WWE Channel" tvg-logo="https://download.logo.wine/logo/WWE_Network_(Canada)/WWE_Network_(Canada)-Logo.wine.png" group-title="Deportes",WWE Channel
+http://yuniott.xyz/W9G5594/7KZL4WT/108847
 
 
 
