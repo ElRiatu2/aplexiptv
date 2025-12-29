@@ -20,7 +20,7 @@ http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/671754
 #EXTINF:-1 tvg-id="foxsportsar2" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Deportes",Fox Sports 2 Argentina
 https://tvgolat.org:8443/batusaix/javier/81341.ts
 #EXTINF:-1 tvg-id="foxsportsar3" tvg-name="Fox Sports 3 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png" group-title="Deportes",Fox Sports 3 Argentina
-https://tvgolat.org:8443/batusaix/javier/81342.ts
+http://138.201.200.210:59000/play/4xdElo4oIfmScKTKIM6zWseix0oLTISDT31nJsXJa_8/ts
 #EXTINF:-1 tvg-id="espnmx" tvg-name="ESPN México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN México
 https://tvgolat.org:8443/batusaix/javier/166748.ts
 #EXTINF:-1 tvg-id="espn2mx" tvg-name="ESPN 2 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 México
@@ -28,7 +28,7 @@ http://138.201.200.210:59000/play/4xdElo4oIfmScKTKIM6zWmkxWZDVXy79nivBGPeLGe0/ts
 #EXTINF:-1 tvg-id="espn3mx" tvg-name="ESPN 3 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 México
 http://138.201.200.210:59000/play/4xdElo4oIfmScKTKIM6zWj-eKEGg2w-ty7yCBBOMnbg/ts
 #EXTINF:-1 tvg-id="foxsportsmx" tvg-name="Fox Sports México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/2560px-FOX_Sports_logo.svg.png" group-title="Deportes",Fox Sports México
-https://tvgolat.org:8443/batusaix/javier/268386.ts
+http://138.201.200.210:59000/play/4xdElo4oIfmScKTKIM6zWmOp7cxu2HrmsKfIHakdq9g/ts
 #EXTINF:-1 tvg-id="foxsport2smx" tvg-name="Fox Sports 2 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/2560px-Fox_sports_2_logo.svg.png" group-title="Deportes",Fox Sports 2 México
 http://pixelmax.link:8085/OSCAR01/UvBrDwCxqtKx/397957
 #EXTINF:-1 tvg-id="foxsport3smx" tvg-name="Fox Sports 3 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Fox_sports_3_logo.svg/2560px-Fox_sports_3_logo.svg.png" group-title="Deportes",Fox Sports 3 México
