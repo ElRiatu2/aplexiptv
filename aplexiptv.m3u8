@@ -14,7 +14,7 @@ http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/361022.ts
 #EXTINF:-1 tvg-id="espn7" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7
 http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/361023.ts
 #EXTINF:-1 tvg-id="espndeportes" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Deportes",ESPN Deportes
-http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/360915.ts
+http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/360941.ts
 #EXTINF:-1 tvg-id="foxsportsar" tvg-name="Fox Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Deportes",Fox Sports Argentina
 http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/50506.ts
 #EXTINF:-1 tvg-id="foxsportsar2" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Deportes",Fox Sports 2 Argentina
@@ -55,8 +55,8 @@ http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 https://dai.google.com/linear/hls/event/yINISWAPQ0CPhPixe-40wQ/master.m3u8
 #EXTINF:-1 tvg-id="ITV" tvg-name="ITV Deportes" tvg-logo="https://www.lg.com/content/dam/channel/wcms/mx/2025/march/lg-channels/imágenes-actualizadas/deportes/03_Deportes_ITV-Deportes_001.png" group-title="Deportes",ITV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5999
-#EXTINF:-1 tvg-id="Telemundo Puerto Rico" tvg-name="Telemundo Puerto Rico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/WKAQ-TV2_%28Telemundo_Puerto_Rico_2018%29.svg/revision/latest/scale-to-width-down/200?cb=20210112173713" group-title="Deportes",Telemundo Puerto Rico
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 tvg-id="Sky Sports LaLiga" tvg-name="Sky Sports LaLiga" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sky_Sports_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20231120144249" group-title="Deportes",Sky Sports LaLiga
+http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/456090.ts
 #EXTINF:-1 tvg-id="TUDNUSA" tvg-name="TUDN (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (USA)
 https://tvgolat.org:8443/batusaix/javier/3283.ts
 #EXTINF:-1 tvg-id="TUDNMX" tvg-name="TUDN (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (MX)
@@ -95,6 +95,8 @@ http://bgdc.live:25461/joesardo55/37458621/215100
 http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/317560.ts
 #EXTINF:-1 tvg-id="MILENIO" tvg-name="Milenio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="Cable",Milenio TV
 http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/404372.ts
+#EXTINF:-1 tvg-id="Telemundo Puerto Rico" tvg-name="Telemundo Puerto Rico" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/WKAQ-TV2_%28Telemundo_Puerto_Rico_2018%29.svg/revision/latest/scale-to-width-down/200?cb=20210112173713" group-title="Cable",Telemundo Puerto Rico
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 #EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="TV Abierta",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="TV Abierta",Azteca 7
