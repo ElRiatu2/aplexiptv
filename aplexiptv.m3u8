@@ -65,6 +65,8 @@ http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx7zQcF0
 http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx5xKXhbeHH-EzzMrNwvJx6w/ts
 #EXTINF:-1 tvg-id="F14K" tvg-name="SKYSPORTS F1 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sky_Sport_F1_-_Logo_2026.svg/3840px-Sky_Sport_F1_-_Logo_2026.svg.png" group-title="Deportes",SKYSPORTS F1 4K
 http://mtvp.net:8080/IrvingMerren25/434211/498457
+#EXTINF:-1 tvg-id="SKYSPORTSMAINEVENT" tvg-name="SKYSPORTS MAIN EVENT" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/a1/Sky_Sports_Main_Event_%282020%29.png/revision/latest/scale-to-width-down/1280?cb=20220227231333" group-title="Deportes",SKYSPORTS MAIN EVENT
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6ruYMwN-ghuoQEBd7-1JLq/m3u8
 #EXTINF:-1 tvg-id="DAZNLALIGA" tvg-name="DAZN LaLiga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/DAZN_LALIGA_2024_logo.svg/1200px-DAZN_LALIGA_2024_logo.svg.png" group-title="Deportes",DAZN LaLiga
 http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx5-ZsEuecPGk5VYDYKS8cwl/ts
 #EXTINF:-1 tvg-id="MOVISTARLIGADECAMPEONES" tvg-name="Movistar Liga De Campeones" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/1280px-Movistar_Liga_de_Campeones.svg.png" group-title="Deportes",Movistar Liga De Campeones
