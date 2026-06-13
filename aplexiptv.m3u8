@@ -100,9 +100,9 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 tvg-id="Azteca13.mx" tvg-name="Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Azteca_Uno_%282020%29.svg/2560px-Azteca_Uno_%282020%29.svg.png" group-title="TV Abierta",Azteca Uno
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx" tvg-name="Azteca 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Azteca_7_variante_blanca_2021.png" group-title="TV Abierta",Azteca 7
-https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+http://24.152.53.3:8090/play/a013/index.m3u8?hls
 #EXTINF:-1 tvg-id="Cana5.mx" tvg-name="Canal 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Logotipo-Canal-5-México.png" group-title="TV Abierta",Canal 5
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx74kqPZE0GGsj8pALvb3htv/ts
+https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/2181px-Las_Estrellas_logo_%282016%29.svg.png" group-title="TV Abierta",Las Estrellas
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-id="NickJR" tvg-name="Nick Jr." tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="Niños",Nick Jr
