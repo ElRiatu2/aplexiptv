@@ -215,6 +215,7 @@ http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx47413t
 http://libertadtv.lat:8080/UGNMN3JncDViSFVqdVJvZnZQVUxoaCswZVlpQnJNb3dJWEdGZHgyanJFaz0
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo Chicago" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Telemundo Mundial 🏆",Telemundo Chicago
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826684.ts
-
+#EXTINF:-1 tvg-id="VIX" tvg-name="Vix Pase Mundial" tvg-logo="https://media.bolavip.com/wp-content/uploads/sites/23/2026/06/10164341/Pase-Mundial-ViX-Premium-740x416.webp" group-title="Vix Pase Mundial",Vix Pase Mundial (Solo eventos)
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/936118.ts
 
 
