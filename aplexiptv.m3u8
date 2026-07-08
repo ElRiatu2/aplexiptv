@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6UrxWKjyK6worloYENXKSi/m3u8
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653213.ts
 #EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx46EvSZJw9Pwzrlhp93KwIs/ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653223.ts
 #EXTINF:-1 tvg-id="espn3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx7bGI2qCc5Xaw7yLAahFedm/m3u8
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653230.ts
 #EXTINF:-1 tvg-id="espn4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png" group-title="Deportes",ESPN 4
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx4XHooTk5yH3ZWhozNwSDdK/ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/825827.ts
 #EXTINF:-1 tvg-id="espn5" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/1280px-ESPN_5_logo.svg.png" group-title="Deportes",ESPN 5
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx60ZGuUm5SxwZzOjs9mFx5-/ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653236.ts
 #EXTINF:-1 tvg-id="espn6" tvg-name="ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1024px-ESPN_6_logo.svg.png" group-title="Deportes",ESPN 6
-http://goflixpro.com:8080/GabrielaD019/TD5JhvpSxCkd/458644
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653238.ts
 #EXTINF:-1 tvg-id="espn7" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6ljNW9KrSZIkCk-LgYWCZY/ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653240.ts
 #EXTINF:-1 tvg-id="espndeportes" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Deportes",ESPN Deportes
 http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx4SzAC3Z8YuHNCcyri_Sh9U/ts
 #EXTINF:-1 tvg-id="foxsportsar" tvg-name="Fox Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Deportes",Fox Sports Argentina
@@ -127,90 +127,6 @@ http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx79jnqA
 http://streamingtv.vip:80//live/pydjJbyGPG/88f3sqXET/474575.ts
 #EXTINF:-1 tvg-id="CHIVASEVENTS" tvg-name="Eventos: Chivas" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Chivas-Logo-2018.png" group-title="Eventos",Chivas FC Partidos
 https://afy4c.envivoslatam.org/eventos/tracks-v1a1/mono.m3u8?ip=187.140.229.199&token=2769494bb9c874bcc302f80977f727a6cd56611f-68-1779028716-1778974716
-#EXTINF:-1 tvg-id="CDLFUSA" tvg-name="Casa De Los Famosos USA CAM 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/La_casa_de_los_famosos_series_logo.png" group-title="La Casa De Los Famosos USA",La Casa De Los Famosos USA Cam 1
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx4wvcspzahCjeNaNAxz8a_H/ts
-#EXTINF:-1 tvg-id="CDLFUSA" tvg-name="Casa De Los Famosos USA CAM 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f2/La_casa_de_los_famosos_series_logo.png" group-title="La Casa De Los Famosos USA",La Casa De Los Famosos USA Cam 2
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx67n3w9PGgERqTe-0BvPXY9/ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox One 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxtobO-oWqNZ4D3gIXEdDO2axqO9QjUSjAzg&s" group-title="FOX ONE",Fox One 1
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx5pQNzJqq_lGziNi0yC1VR3/ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox One 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxtobO-oWqNZ4D3gIXEdDO2axqO9QjUSjAzg&s" group-title="FOX ONE",Fox One 2
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx5eUziyOpYezz1QQjCDA0F0/ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox One 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxtobO-oWqNZ4D3gIXEdDO2axqO9QjUSjAzg&s" group-title="FOX ONE",Fox One 3
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx79WJU3xcyBzxVCJXV0ioaM/ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox One 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxtobO-oWqNZ4D3gIXEdDO2axqO9QjUSjAzg&s" group-title="FOX ONE",Fox One 4
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6ay4AxiH-yBpTVSmZ_zq1Z/ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox One 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxtobO-oWqNZ4D3gIXEdDO2axqO9QjUSjAzg&s" group-title="FOX ONE",Fox One 5
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx707LxlN7yFd2kJuKOUPOTi/ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox One 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxtobO-oWqNZ4D3gIXEdDO2axqO9QjUSjAzg&s" group-title="FOX ONE",Fox One 6
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx4n45oURO_6A935F5QvRHYJ/ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox One 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxtobO-oWqNZ4D3gIXEdDO2axqO9QjUSjAzg&s" group-title="FOX ONE",Fox One 7
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx7dhG5kVNijn6KZ-cWbCmP_/ts
-#EXTINF:-1 tvg-id="" tvg-name="Fox One 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxtobO-oWqNZ4D3gIXEdDO2axqO9QjUSjAzg&s" group-title="FOX ONE",Fox One 8
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx7D3cRbGO4Wl1knV0RKe80g/ts
-#EXTINF:-1 xui-id="802446" tvg-id="" tvg-name="EL MUNDIAL 1:" tvg-logo="http://flow-tv.us:80/images/CWa9Acjr1m4n0OyBHURa-j6c9AdxhKQ6hueexsLNomWXeZYnU65KTOimchqjRfdlcAhNK1CFAyTjv8KYVzHTlGBOa7PQKaJJ6rQJq6W1PxA.jpg" group-title="✨EVENTOS COPA MUNDIAL✨",EL MUNDIAL 1:
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmUsnHA0p9ordyGUyhWb20eLXBFR_O4XGOjbRB0t0tzoJ/m3u8
-#EXTINF:-1 xui-id="802447" tvg-id="" tvg-name="EL MUNDIAL 2:" tvg-logo="http://flow-tv.us:80/images/CWa9Acjr1m4n0OyBHURa-j6c9AdxhKQ6hueexsLNomWXeZYnU65KTOimchqjRfdlcAhNK1CFAyTjv8KYVzHTlGBOa7PQKaJJ6rQJq6W1PxA.jpg" group-title="✨EVENTOS COPA MUNDIAL✨",EL MUNDIAL 2:
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmUsnHA0p9ordyGUyhWb20eINkb2GHHfCFb3FtAl47KnO/m3u8
-#EXTINF:-1 xui-id="802448" tvg-id="" tvg-name="EL MUNDIAL 3:" tvg-logo="http://flow-tv.us:80/images/CWa9Acjr1m4n0OyBHURa-j6c9AdxhKQ6hueexsLNomWXeZYnU65KTOimchqjRfdlcAhNK1CFAyTjv8KYVzHTlGBOa7PQKaJJ6rQJq6W1PxA.jpg" group-title="✨EVENTOS COPA MUNDIAL✨",EL MUNDIAL 3:
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmUsnHA0p9ordyGUyhWb20eJVmdiKE9MSjOyaMqKHtVTs/m3u8
-#EXTINF:-1 xui-id="802449" tvg-id="" tvg-name="EL MUNDIAL 4:" tvg-logo="http://flow-tv.us:80/images/CWa9Acjr1m4n0OyBHURa-j6c9AdxhKQ6hueexsLNomWXeZYnU65KTOimchqjRfdlcAhNK1CFAyTjv8KYVzHTlGBOa7PQKaJJ6rQJq6W1PxA.jpg" group-title="✨EVENTOS COPA MUNDIAL✨",EL MUNDIAL 4:
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmUsnHA0p9ordyGUyhWb20eINeRImNW5Q0JjL7u-2r8T2/m3u8
-#EXTINF:-1 xui-id="802450" tvg-id="" tvg-name="EL MUNDIAL 5:" tvg-logo="http://flow-tv.us:80/images/CWa9Acjr1m4n0OyBHURa-j6c9AdxhKQ6hueexsLNomWXeZYnU65KTOimchqjRfdlcAhNK1CFAyTjv8KYVzHTlGBOa7PQKaJJ6rQJq6W1PxA.jpg" group-title="✨EVENTOS COPA MUNDIAL✨",EL MUNDIAL 5:
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmUsnHA0p9ordyGUyhWb20eJllcURj3UtNBqyzovwnDeo/m3u8
-#EXTINF:-1 xui-id="802451" tvg-id="" tvg-name="EL MUNDIAL 6:" tvg-logo="http://flow-tv.us:80/images/CWa9Acjr1m4n0OyBHURa-j6c9AdxhKQ6hueexsLNomWXeZYnU65KTOimchqjRfdlcAhNK1CFAyTjv8KYVzHTlGBOa7PQKaJJ6rQJq6W1PxA.jpg" group-title="✨EVENTOS COPA MUNDIAL✨",EL MUNDIAL 6:
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmUsnHA0p9ordyGUyhWb20eLCkJnopWDNOO0oRp31sDAT/m3u8
-#EXTINF:-1 xui-id="802452" tvg-id="" tvg-name="EL MUNDIAL 7:" tvg-logo="http://flow-tv.us:80/images/CWa9Acjr1m4n0OyBHURa-j6c9AdxhKQ6hueexsLNomWXeZYnU65KTOimchqjRfdlcAhNK1CFAyTjv8KYVzHTlGBOa7PQKaJJ6rQJq6W1PxA.jpg" group-title="✨EVENTOS COPA MUNDIAL✨",EL MUNDIAL 7:
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmUsnHA0p9ordyGUyhWb20eI-9v_x9NRAU8Ge1RpU9iF5/m3u8
-#EXTINF:-1 xui-id="802453" tvg-id="" tvg-name="EL MUNDIAL 8:" tvg-logo="http://flow-tv.us:80/images/CWa9Acjr1m4n0OyBHURa-j6c9AdxhKQ6hueexsLNomWXeZYnU65KTOimchqjRfdlcAhNK1CFAyTjv8KYVzHTlGBOa7PQKaJJ6rQJq6W1PxA.jpg" group-title="✨EVENTOS COPA MUNDIAL✨",EL MUNDIAL 8:
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmUsnHA0p9ordyGUyhWb20eIgHR3zyTru0aTL752Kh_5l/m3u8
-#EXTINF:-1 xui-id="802454" tvg-id="" tvg-name="EL MUNDIAL 9:" tvg-logo="http://flow-tv.us:80/images/CWa9Acjr1m4n0OyBHURa-j6c9AdxhKQ6hueexsLNomWXeZYnU65KTOimchqjRfdlcAhNK1CFAyTjv8KYVzHTlGBOa7PQKaJJ6rQJq6W1PxA.jpg" group-title="✨EVENTOS COPA MUNDIAL✨",EL MUNDIAL 9:
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmUsnHA0p9ordyGUyhWb20eL2GDO6yLKSrNWRZcc8ZsR5/m3u8
-#EXTINF:-1 xui-id="802455" tvg-id="" tvg-name="EL MUNDIAL 10:" tvg-logo="http://flow-tv.us:80/images/CWa9Acjr1m4n0OyBHURa-j6c9AdxhKQ6hueexsLNomWXeZYnU65KTOimchqjRfdlcAhNK1CFAyTjv8KYVzHTlGBOa7PQKaJJ6rQJq6W1PxA.jpg" group-title="✨EVENTOS COPA MUNDIAL✨",EL MUNDIAL 10:
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmUsnHA0p9ordyGUyhWb20eIfbbvKMroD7xIWHPzrkWsI/m3u8
-#EXTINF:-1 xui-id="802456" tvg-id="" tvg-name="EL MUNDIAL 11:" tvg-logo="http://flow-tv.us:80/images/CWa9Acjr1m4n0OyBHURa-j6c9AdxhKQ6hueexsLNomWXeZYnU65KTOimchqjRfdlcAhNK1CFAyTjv8KYVzHTlGBOa7PQKaJJ6rQJq6W1PxA.jpg" group-title="✨EVENTOS COPA MUNDIAL✨",EL MUNDIAL 11:
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmUsnHA0p9ordyGUyhWb20eJHY5I9d7sPOexcrYpmE9Ka/m3u8
-#EXTINF:-1 xui-id="802457" tvg-id="" tvg-name="EL MUNDIAL 12:" tvg-logo="http://flow-tv.us:80/images/CWa9Acjr1m4n0OyBHURa-j6c9AdxhKQ6hueexsLNomWXeZYnU65KTOimchqjRfdlcAhNK1CFAyTjv8KYVzHTlGBOa7PQKaJJ6rQJq6W1PxA.jpg" group-title="✨EVENTOS COPA MUNDIAL✨",EL MUNDIAL 12:
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmUsnHA0p9ordyGUyhWb20eLP9vUDYzi_t_wVK9wuV5VP/m3u8
-#EXTINF:-1 xui-id="802458" tvg-id="" tvg-name="EL MUNDIAL 13:" tvg-logo="http://flow-tv.us:80/images/CWa9Acjr1m4n0OyBHURa-j6c9AdxhKQ6hueexsLNomWXeZYnU65KTOimchqjRfdlcAhNK1CFAyTjv8KYVzHTlGBOa7PQKaJJ6rQJq6W1PxA.jpg" group-title="✨EVENTOS COPA MUNDIAL✨",EL MUNDIAL 13:
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmUsnHA0p9ordyGUyhWb20eIHQRca_st0LIigvlOjopk9/m3u8
-#EXTINF:-1 xui-id="802459" tvg-id="" tvg-name="EL MUNDIAL 14:" tvg-logo="http://flow-tv.us:80/images/CWa9Acjr1m4n0OyBHURa-j6c9AdxhKQ6hueexsLNomWXeZYnU65KTOimchqjRfdlcAhNK1CFAyTjv8KYVzHTlGBOa7PQKaJJ6rQJq6W1PxA.jpg" group-title="✨EVENTOS COPA MUNDIAL✨",EL MUNDIAL 14:
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmUsnHA0p9ordyGUyhWb20eI6j2xRywgzWuPvbnHxTPeO/m3u8
-#EXTINF:-1 xui-id="802460" tvg-id="" tvg-name="EL MUNDIAL 15:" tvg-logo="http://flow-tv.us:80/images/CWa9Acjr1m4n0OyBHURa-j6c9AdxhKQ6hueexsLNomWXeZYnU65KTOimchqjRfdlcAhNK1CFAyTjv8KYVzHTlGBOa7PQKaJJ6rQJq6W1PxA.jpg" group-title="✨EVENTOS COPA MUNDIAL✨",EL MUNDIAL 15:
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmUsnHA0p9ordyGUyhWb20eJ51os-4JYtyxZq5qCPA-qt/m3u8
-#EXTINF:-1 xui-id="802461" tvg-id="" tvg-name="EL MUNDIAL 16:" tvg-logo="http://flow-tv.us:80/images/CWa9Acjr1m4n0OyBHURa-j6c9AdxhKQ6hueexsLNomWXeZYnU65KTOimchqjRfdlcAhNK1CFAyTjv8KYVzHTlGBOa7PQKaJJ6rQJq6W1PxA.jpg" group-title="✨EVENTOS COPA MUNDIAL✨",EL MUNDIAL 16:
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmUsnHA0p9ordyGUyhWb20eJIiGIXwNh3KCl3wGAyalUc/m3u8
-#EXTINF:-1 xui-id="802462" tvg-id="" tvg-name="EL MUNDIAL 17:" tvg-logo="http://flow-tv.us:80/images/CWa9Acjr1m4n0OyBHURa-j6c9AdxhKQ6hueexsLNomWXeZYnU65KTOimchqjRfdlcAhNK1CFAyTjv8KYVzHTlGBOa7PQKaJJ6rQJq6W1PxA.jpg" group-title="✨EVENTOS COPA MUNDIAL✨",EL MUNDIAL 17:
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmUsnHA0p9ordyGUyhWb20eJiD3LH8ZE2CF1rHYiBg-09/m3u8
-#EXTINF:-1 xui-id="802463" tvg-id="" tvg-name="EL MUNDIAL 18:" tvg-logo="http://flow-tv.us:80/images/CWa9Acjr1m4n0OyBHURa-j6c9AdxhKQ6hueexsLNomWXeZYnU65KTOimchqjRfdlcAhNK1CFAyTjv8KYVzHTlGBOa7PQKaJJ6rQJq6W1PxA.jpg" group-title="✨EVENTOS COPA MUNDIAL✨",EL MUNDIAL 18:
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmUsnHA0p9ordyGUyhWb20eI-uey7cAiDsTASoT_-psaR/m3u8
-#EXTINF:-1 xui-id="802464" tvg-id="" tvg-name="EL MUNDIAL 19:" tvg-logo="http://flow-tv.us:80/images/CWa9Acjr1m4n0OyBHURa-j6c9AdxhKQ6hueexsLNomWXeZYnU65KTOimchqjRfdlcAhNK1CFAyTjv8KYVzHTlGBOa7PQKaJJ6rQJq6W1PxA.jpg" group-title="✨EVENTOS COPA MUNDIAL✨",EL MUNDIAL 19:
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmUsnHA0p9ordyGUyhWb20eJEHsIr2s2rDklbkYXezCma/m3u8
-#EXTINF:-1 xui-id="802465" tvg-id="" tvg-name="EL MUNDIAL 20:" tvg-logo="http://flow-tv.us:80/images/CWa9Acjr1m4n0OyBHURa-j6c9AdxhKQ6hueexsLNomWXeZYnU65KTOimchqjRfdlcAhNK1CFAyTjv8KYVzHTlGBOa7PQKaJJ6rQJq6W1PxA.jpg" group-title="✨EVENTOS COPA MUNDIAL✨",EL MUNDIAL 20:
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmUsnHA0p9ordyGUyhWb20eIs4CTzyuXdw-B75v6uIXxP/m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Soccer 10: WC: 4K 1" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/new-FIFA-World-Cup-2026-logo-black-PNG-large-size.png" group-title="Mundial 4k (Eng)",World Cup 4k 1
-https://gffgfhhf.fgg-4le.pages.dev/1782009947/d619c59e0ba7414d88d156476a722fd9/wBCyrADwPMsobvOG5hvbX39Ju4J30-2L2_zzPJAGaZw/telemundo-4k.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Soccer 11: WC: 4K 2" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/new-FIFA-World-Cup-2026-logo-black-PNG-large-size.png" group-title="Mundial 4k (Eng)",World Cup 4k 2
-https://gffgfhhf.fgg-4le.pages.dev/1781996875/42de394841364f43903790606a9495d5/k53oRPdKtLiqspIg9Ir3kpo5X71pPOglGwWyVnATHO8/telemundo-4k.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Soccer 12: WC: 4K 3" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/new-FIFA-World-Cup-2026-logo-black-PNG-large-size.png" group-title="Mundial 4k (Eng)",World Cup 4k 3
-https://gffgfhhf.fgg-4le.pages.dev/1781996875/42de394841364f43903790606a9495d5/k53oRPdKtLiqspIg9Ir3kpo5X71pPOglGwWyVnATHO8/telemundo-4k.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Soccer 11: WC: 4K 4" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/new-FIFA-World-Cup-2026-logo-black-PNG-large-size.png" group-title="Mundial 4k (Eng)",World Cup 4k 4
-https://gffgfhhf.fgg-4le.pages.dev/1781996875/42de394841364f43903790606a9495d5/k53oRPdKtLiqspIg9Ir3kpo5X71pPOglGwWyVnATHO8/telemundo-4k.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Dallas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Telemundo Mundial 🏆",Telemundo Dallas
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx7Vc4hOC18zS800UTRD3X_E/m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Soccer 10: WC: 4K 5" tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/new-FIFA-World-Cup-2026-logo-black-PNG-large-size.png" group-title="Mundial 4k (Eng)",World Cup 4k 5
-https://vixxox.cdx-08191.space/1781649248/b295904381f34085a95804e6e5faa4ca/uoxBpkzItz-1GaxHqECdnD7AO99murmLVv0eObariEc/bbc-4k.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Providence" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Telemundo Mundial 🏆",Telemundo Providence
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx5sF259GJgAj93OTPYTkG-d/m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Naples" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Telemundo Mundial 🏆",Telemundo Naples
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6HCgg3rlzORt69pyUEGszm/m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo San Diego" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Telemundo Mundial 🏆",Telemundo San Diego
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx4a8aM_ouXWTmGYz1a6TTl9/m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Denver" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Telemundo Mundial 🏆",Telemundo Denver
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx6PaXUemkJXJSHgEkKVcydp/m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Rio Grande" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Telemundo Mundial 🏆",Telemundo Rio Grande
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx4gzV_z04TJw5jtjvhgT_XK/m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Houston" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Telemundo Mundial 🏆",Telemundo Houston
-http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx47413tQIn6SVN2laMNZP9P/m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo Los Ángeles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Telemundo Mundial 🏆",Telemundo Los Ángeles
 http://libertadtv.lat:8080/UGNMN3JncDViSFVqdVJvZnZQVUxoaCswZVlpQnJNb3dJWEdGZHgyanJFaz0
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo Chicago" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Telemundo Mundial 🏆",Telemundo Chicago
