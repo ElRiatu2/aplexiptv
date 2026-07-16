@@ -45,6 +45,8 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826220.ts
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/221579.ts
 #EXTINF:-1 tvg-id="aymsports" tvg-name="AyM Sports" tvg-logo="https://aymsports.net/wp-content/themes/aym-sports/assets/images/logo.png" group-title="Deportes",AyM Sports
 https://aym-as.otteravision.com/aym/as/as_1080p.m3u8
+#EXTINF:-1 tvg-id="beinsports" tvg-name="Bein Sports en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Deportes",Bein Sports en Español
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/640076.ts
 #EXTINF:-1 tvg-id="aztecadeportes" tvg-name="Azteca Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Aztecadeporteslogo.png/250px-Aztecadeporteslogo.png" group-title="Deportes",Azteca Deportes
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/664031.ts
 #EXTINF:-1 tvg-id="CLARO" tvg-name="Claro Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/1600px-Claro_Sports_logo.svg.png" group-title="Deportes",Claro Sports
