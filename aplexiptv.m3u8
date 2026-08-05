@@ -117,11 +117,7 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1050645.ts
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1066051.ts
 #EXTINF:-1 tvg-id="CHIVASEVENTS" tvg-name="Eventos: Chivas" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Chivas-Logo-2018.png" group-title="Eventos",Chivas FC Partidos
 https://afy4c.envivoslatam.org/eventos/tracks-v1a1/mono.m3u8?ip=187.140.229.199&token=2769494bb9c874bcc302f80977f727a6cd56611f-68-1779028716-1778974716
-#EXTINF:-1 tvg-id="" tvg-name="Telemundo Los Ángeles" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Telemundo Mundial 🏆",Telemundo Los Ángeles
-http://libertadtv.lat:8080/UGNMN3JncDViSFVqdVJvZnZQVUxoaCswZVlpQnJNb3dJWEdGZHgyanJFaz0
+#EXTINF:-1 tvg-id="1086464" tvg-name="12:30 05/08 | Amistoso | Arsenal vs. Real Betis | OP1" tvg-logo="http://premieresupport.support:80/images/Ot0G-zkBil5HgfveJ2aD7VCYGGITqmTqaldStFUz45E09sJ0x_Fx_McjTw-qs6YB.png" group-title="[EN VIVO] ⚽ EVENTOS DIARIOS DE LOKURA TV",12:30 05/08 | Amistoso | Arsenal vs. Real Betis | OP1
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1086464.ts
 #EXTINF:-1 tvg-id="" tvg-name="Telemundo McAllen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="Telemundo Mundial 🏆",Telemundo McAllen
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/834295.ts
-#EXTINF:-1 tvg-id="VIX" tvg-name="Vix Pase Mundial" tvg-logo="https://media.bolavip.com/wp-content/uploads/sites/23/2026/06/10164341/Pase-Mundial-ViX-Premium-740x416.webp" group-title="Vix Pase Mundial",Vix Pase Mundial (Solo eventos)
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/973967.ts
-#EXTINF:-1 tvg-id="LAVELADA" tvg-name="La Velada Del Año VI" tvg-logo="https://la-velada.netlify.app/logo-footer.png" group-title="Eventos",La Velada Del Año VI
-https://euc12.playlist.ttvnw.net/v1/playlist/CuoEBVuo3uKvfpJ-wvrllEhYCzpcTnn-N5TuIf_WCK7ywLZ0zGCK2SxbHIFZN3PceyKW1MCmkRa3hTSEhZICznY3tg3xN4DpiB7lThizUHmZ27yrgoumUqKVVZFWSRqdpE4dnIjsFPWTaUfl_X3FYJN9dcYm-f3SUub1GeCZ4TPBLadx14tgPPkJXqZ7WyK3BId0SeV5YTWGL4tlRmwENdFj-kKWC16Q1RLulNb8prHxnVpfCzMs44NYZq0-AJ-t_p6OWLbEsFCst3YAqKurofgm166zYjedlgHBJ3kA5INTbt9GlN6zXuluL6EJJAOmazkzV4y8NLAyUng5MnYLND4oYLZu1pSXEQn-9RaX1KGpUaZttplRzRs4DLDniWSwX56jLK4P_GbhjK4L1UyPA6KkFehb74uI0yUWnOXlvbVC3Mde_S3XwDnGk94CNm5MklAighrNUuRLRDJq79Dyn7DF_mfGrh3-z4H43M1PEApX-dIUJBOWvoSb5NrsPpLGu47RpaYhWtS7ziQ_TFxl1h7m02P6Dt-uakmIpcYfUxPbS5Eewi7qeq3K6Rq1d4TWT_E4AFuSnrYDdNj-W9EJymRiZ6uEOBx038PYOSE2Ngj93ZAeDoxAakxKf8yCPOcBZTB_2WmNov69hqplAHUyr7PfEFpkJee4uL1Wbp6Z3XTh_tmhKAO3WusWLSu0V1uMZqPysT_-VGzCNO0E3OA21bLU6ibU1NBblIUHTuMkypcBIXl72qsUn0iAp6fqcJV_o6bbF5TdPgr_qSHu2qF23925lQUor9XYdmjrpCMGD7piuT8QJDbaJe5H-A28Ggzll6U9h5YTMZasB3IgASoJZXUtd2VzdC0yMNgP.m3u8
