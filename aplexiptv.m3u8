@@ -61,3 +61,11 @@ http://rdctv.pro:8080/andxMUNpRFlSMjRiNGdpc3ZQU3Fna1l4ZnB5Y24rNC9rWEVaUHRZdmlNTW
 http://rdctv.pro:8080/andxMUNpRFlSMjRiNGdpc3ZQU3Fna1l4ZnB5Y24rNC9rWEVaUHRZdmlNUHkxVjJITWcwMzIxUHkwRHIyMnkyRA
 #EXTINF:-1 tvg-id="DAZNF1" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Deportes",DAZN F1
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1105220.ts
+#EXTINF:-1 tvg-id="1579277" tvg-name="13:00 16/09 | Manchester United vs. Brighton & Hove Albion | Carabao Cup ||" tvg-logo="http://premieresupport.support:80/images/Ot0G-zkBil5HgfveJ2aD7ZBeD0JwqiRyrphxCA7kKjLKYJcVfI5kXqGDmOnErs1v.png" group-title="[EN VIVO] ⚽ EVENTOS DIARIOS DE LOKURA TV",13:00 16/09 | Manchester United vs. Brighton & Hove Albion | Carabao Cup ||
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1579277.ts
+#EXTINF:-1 tvg-id="1579294" tvg-name="13:30 16/09 | Barcelona vs. Racing de Santander | LaLiga | FHD" tvg-logo="http://premieresupport.support:80/images/Ot0G-zkBil5HgfveJ2aD7dSHiEVz3xjTM7RNBTelco8U5w7Npkda7CQpZT9tqVvK.png" group-title="[EN VIVO] ⚽ EVENTOS DIARIOS DE LOKURA TV",13:30 16/09 | Barcelona vs. Racing de Santander | LaLiga | FHD
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1579294.ts
+#EXTINF:-1 tvg-id="1579295" tvg-name="13:30 16/09 | Barcelona vs. Racing de Santander | LaLiga ||" tvg-logo="http://premieresupport.support:80/images/Ot0G-zkBil5HgfveJ2aD7dSHiEVz3xjTM7RNBTelco8U5w7Npkda7CQpZT9tqVvK.png" group-title="[EN VIVO] ⚽ EVENTOS DIARIOS DE LOKURA TV",13:30 16/09 | Barcelona vs. Racing de Santander | LaLiga ||
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1579295.ts
+#EXTINF:-1 tvg-id="1579296" tvg-name="13:30 16/09 | Barcelona vs. Racing de Santander | LaLiga || SD" tvg-logo="http://premieresupport.support:80/images/Ot0G-zkBil5HgfveJ2aD7dSHiEVz3xjTM7RNBTelco8U5w7Npkda7CQpZT9tqVvK.png" group-title="[EN VIVO] ⚽ EVENTOS DIARIOS DE LOKURA TV",13:30 16/09 | Barcelona vs. Racing de Santander | LaLiga || SD
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1579296.ts
