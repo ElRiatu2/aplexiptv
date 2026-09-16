@@ -1,4 +1,4 @@
-#EXTM3U
+|#EXTM3U
 #EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653213.ts
 #EXTINF:-1 tvg-id="espn2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2
@@ -14,7 +14,9 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653238.ts
 #EXTINF:-1 tvg-id="espn7" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1163119.ts
 #EXTINF:-1 tvg-id="espn_deportes" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Deportes",ESPN Deportes
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1249651.ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1372222.ts
+#EXTINF:-1 tvg-id="fox_deportes" tvg-name="Fox Deportes" tvg-logo="https://www.foxdeportes.com/assets/images/banner.png" group-title="Deportes",Fox Deportes
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1573844.ts
 #EXTINF:-1 tvg-id="foxsportsar" tvg-name="Fox Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Deportes",Fox Sports Argentina
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1069327.ts
 #EXTINF:-1 tvg-id="foxsportsar2" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Deportes",Fox Sports 2 Argentina
@@ -22,11 +24,13 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1069329.ts
 #EXTINF:-1 tvg-id="foxsportsar3" tvg-name="Fox Sports 3 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png" group-title="Deportes",Fox Sports 3 Argentina
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/825839.ts
 #EXTINF:-1 tvg-id="espn_mexico" tvg-name="ESPN México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN México
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/822216.ts
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1574283.ts
 #EXTINF:-1 tvg-id="espn_2" tvg-name="ESPN 2 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 México
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653271.ts
 #EXTINF:-1 tvg-id="espn_3" tvg-name="ESPN 3 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 México
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826186.ts
+#EXTINF:-1 tvg-id="Canal Fox" tvg-name="Fox México" tvg-logo="https://www.freepnglogos.com/uploads/hd-fox-blue-logo-png-6.png" group-title="Deportes",Fox México
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1573875.ts
 #EXTINF:-1 tvg-id="Canal Fox Sports" tvg-name="Fox Sports México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/2560px-FOX_Sports_logo.svg.png" group-title="Deportes",Fox Sports México
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1069334.ts
 #EXTINF:-1 tvg-id="foxsport2smx" tvg-name="Fox Sports 2 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Fox_sports_2_logo.svg/2560px-Fox_sports_2_logo.svg.png" group-title="Deportes",Fox Sports 2 México
@@ -52,10 +56,8 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/640108.ts
 #EXTINF:-1 tvg-id="Sky Sports" tvg-name="Sky Sports 16" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/960px-Sky_Sports_logo_2020.svg.png" group-title="Deportes",Sky Sports
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1249630.ts
 #EXTINF:-1 tvg-id="TUDNUSA" tvg-name="TUDN (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (USA)
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1162672.ts
+http://rdctv.pro:8080/andxMUNpRFlSMjRiNGdpc3ZQU3Fna1l4ZnB5Y24rNC9rWEVaUHRZdmlNTWdHK2FiWitSWXA2QkNNejNVZnNGSA
 #EXTINF:-1 tvg-id="TUDNMX" tvg-name="TUDN (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/1000px-TUDN_Logo.svg.png" group-title="Deportes",TUDN (MX)
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1162671.ts
+http://rdctv.pro:8080/andxMUNpRFlSMjRiNGdpc3ZQU3Fna1l4ZnB5Y24rNC9rWEVaUHRZdmlNUHkxVjJITWcwMzIxUHkwRHIyMnkyRA
 #EXTINF:-1 tvg-id="DAZNF1" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Deportes",DAZN F1
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1105220.ts
-#EXTINF:-1 tvg-id="1574146" tvg-name="10:45 09/09 | Barcelona vs. Feyenoord | UEFA Champions League || FHD" tvg-logo="http://premieresupport.support:80/images/Ot0G-zkBil5HgfveJ2aD7RE6GK042gxbjqWcCZdD67ljnC4p79zwYXFHPMGfoe_699ygXS9uvsgYKS9b2TPKpw.png" group-title="[EN VIVO] ⚽ EVENTOS DIARIOS DE LOKURA TV",10:45 09/09 | Barcelona vs. Feyenoord | UEFA Champions League || FHD
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1574146.ts
