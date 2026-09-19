@@ -14,9 +14,9 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653238.ts
 #EXTINF:-1 tvg-id="espn7" tvg-name="ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/1280px-ESPN_7_logo.svg.png" group-title="Deportes",ESPN 7
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1163119.ts
 #EXTINF:-1 tvg-id="espn_deportes" tvg-name="ESPN Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Espn_deportes.png" group-title="Deportes",ESPN Deportes
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1372222.ts
+http://168.228.44.241:9998/play/a0dz/index.m3u8
 #EXTINF:-1 tvg-id="fox_deportes" tvg-name="Fox Deportes" tvg-logo="https://www.foxdeportes.com/assets/images/banner.png" group-title="Deportes",Fox Deportes
-http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1573844.ts
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-id="foxsportsar" tvg-name="Fox Sports Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="Deportes",Fox Sports Argentina
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1069327.ts
 #EXTINF:-1 tvg-id="foxsportsar2" tvg-name="Fox Sports 2 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_Fox_Sports_2_Argentina_2023.png" group-title="Deportes",Fox Sports 2 Argentina
@@ -24,7 +24,7 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1069329.ts
 #EXTINF:-1 tvg-id="foxsportsar3" tvg-name="Fox Sports 3 Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Logo_Fox_Sports_3_Argentina_2023.png" group-title="Deportes",Fox Sports 3 Argentina
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/825839.ts
 #EXTINF:-1 tvg-id="espn_mexico" tvg-name="ESPN México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="Deportes",ESPN México
-http://allinonestream.fans:80/live/26839659/7068304/2762.ts
+http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="espn_2" tvg-name="ESPN 2 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="Deportes",ESPN 2 México
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/653271.ts
 #EXTINF:-1 tvg-id="espn_3" tvg-name="ESPN 3 México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes",ESPN 3 México
@@ -105,3 +105,33 @@ http://allinonestream.fans:80/live/26839659/7068304/384194.ts
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1086293.ts
 #EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Niños",Tooncast
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/826496.ts
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Niños",Disney Channel
+http://181.78.8.199:8000/play/a0dn/index.m3u8
+#EXTINF:-1 tvg-id="LAKERSEVENTS" tvg-name="Eventos: L.A. Lakers" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Los_Angeles_Lakers_logo.svg/2560px-Los_Angeles_Lakers_logo.svg.png" group-title="Eventos",Los Angeles Lakers Games
+http://latinostream.xyz:80/play/B2jZyDXY76VCcyqvvShKmYWfMtc4bQuiGuR859MeOx79jnqAhuMfRXSeHQBBddDu/m3u8
+#EXTINF:-1 tvg-id="PREMIERPADEL" tvg-name="Eventos: Premier Padel" tvg-logo="https://padel.watch/wp-content/uploads/2022/11/padel-logo-black-768x174.webp" group-title="Eventos",Premier Padel
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1085735.ts
+#EXTINF:-1 tvg-id="LigaMX" tvg-name="Liga MX Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MX_logo.png" group-title="Deportes",Liga MX Premium
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1036301.ts
+#EXTINF:-1 tvg-id="CHIVASEVENTS" tvg-name="Eventos: Chivas" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Chivas-Logo-2018.png" group-title="Eventos",Chivas FC Partidos
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1576687.ts
+#EXTINF:-1 tvg-id="ATLASEVENTS" tvg-name="Eventos: Atlas" tvg-logo="https://static.wikia.nocookie.net/liga-mx/images/e/ef/ATSlogo.png/revision/latest?cb=20150412224913&path-prefix=es" group-title="Eventos",Atlas FC Partidos
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1573392.ts
+#EXTINF:-1 tvg-id="CuartoTulum" tvg-name="Cuarto Tulum [LA CASA DE LOS FAMOSOS MEXICO]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1AF2Ux-e_qpIbYlTzZa-QjG8RmCmY5_ehMQuiL2kMAfdOqKDaCJUBaCc&s=10" group-title="[EN VIVO] ®️ LA CASA DE LOS FAMOSOS  MEXICO",Cuarto Tulum [LA CASA DE LOS FAMOSOS MEXICO]
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1064957.ts
+#EXTINF:-1 tvg-id="TodaLaCasa" tvg-name="Toda la Casa 24/7 [LA CASA DE LOS FAMOSOS MEXICO]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1AF2Ux-e_qpIbYlTzZa-QjG8RmCmY5_ehMQuiL2kMAfdOqKDaCJUBaCc&s=10" group-title="[EN VIVO] ®️ LA CASA DE LOS FAMOSOS  MEXICO",Toda la Casa 24/7 [LA CASA DE LOS FAMOSOS MEXICO]
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1064950.ts
+#EXTINF:-1 tvg-id="Baño" tvg-name="Baño [LA CASA DE LOS FAMOSOS MEXICO]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1AF2Ux-e_qpIbYlTzZa-QjG8RmCmY5_ehMQuiL2kMAfdOqKDaCJUBaCc&s=10" group-title="[EN VIVO] ®️ LA CASA DE LOS FAMOSOS  MEXICO",Baño [LA CASA DE LOS FAMOSOS MEXICO]
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1064952.ts
+#EXTINF:-1 tvg-id="MultiCam" tvg-name="Multicamaras con anuncios [LA CASA DE LOS FAMOSOS MEXICO]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1AF2Ux-e_qpIbYlTzZa-QjG8RmCmY5_ehMQuiL2kMAfdOqKDaCJUBaCc&s=10" group-title="[EN VIVO] ®️ LA CASA DE LOS FAMOSOS  MEXICO",Multicamaras con anuncios [LA CASA DE LOS FAMOSOS MEXICO]
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1064953.ts
+#EXTINF:-1 tvg-id="Cocina" tvg-name="Cocina [LA CASA DE LOS FAMOSOS MEXICO]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1AF2Ux-e_qpIbYlTzZa-QjG8RmCmY5_ehMQuiL2kMAfdOqKDaCJUBaCc&s=10" group-title="[EN VIVO] ®️ LA CASA DE LOS FAMOSOS  MEXICO",Cocina [LA CASA DE LOS FAMOSOS MEXICO]
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1064951.ts
+#EXTINF:-1 tvg-id="Sala" tvg-name="+Sala [LA CASA DE LOS FAMOSOS MEXICO]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1AF2Ux-e_qpIbYlTzZa-QjG8RmCmY5_ehMQuiL2kMAfdOqKDaCJUBaCc&s=10" group-title="[EN VIVO] ®️ LA CASA DE LOS FAMOSOS  MEXICO",Sala [LA CASA DE LOS FAMOSOS MEXICO]
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1064955.ts
+#EXTINF:-1 tvg-id="CuartoIbiza" tvg-name="Cuarto Ibiza [LA CASA DE LOS FAMOSOS MEXICO]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1AF2Ux-e_qpIbYlTzZa-QjG8RmCmY5_ehMQuiL2kMAfdOqKDaCJUBaCc&s=10" group-title="[EN VIVO] ®️ LA CASA DE LOS FAMOSOS  MEXICO",Cuarto Ibiza [LA CASA DE LOS FAMOSOS MEXICO]
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1064956.ts
+#EXTINF:-1 tvg-id="CuartoMalibu" tvg-name="PREMIUM - Cuarto Malibú [LA CASA DE LOS FAMOSOS MEXICO]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1AF2Ux-e_qpIbYlTzZa-QjG8RmCmY5_ehMQuiL2kMAfdOqKDaCJUBaCc&s=10" group-title="[EN VIVO] ®️ LA CASA DE LOS FAMOSOS  MEXICO",Cuarto Malibú [LA CASA DE LOS FAMOSOS MEXICO]
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1064946.ts
+#EXTINF:-1 tvg-id="1568892" tvg-name="ACCESO TOTAL 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/La_casa_de_los_famosos_M%C3%A9xico_season_4_poster.jpg/250px-La_casa_de_los_famosos_M%C3%A9xico_season_4_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail" group-title="[EN VIVO] ®️ LA CASA DE LOS FAMOSOS  MEXICO",ACCESO TOTAL 24/7
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1568892.ts
