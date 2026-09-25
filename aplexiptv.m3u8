@@ -39,6 +39,8 @@ http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1069335.ts
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1162677.ts
 #EXTINF:-1 tvg-id="foxsportspremium" tvg-name="Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Fox_Sports_Premium_Argentina_2019.png" group-title="Deportes",Fox Sports Premium
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1162678.ts
+#EXTINF:-1 tvg-id="foxplusguatemala" tvg-name="Fox+ (Guatemala)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Fox%2B_2026.svg/revision/latest/scale-to-width-down/300?cb=20260207005308" group-title="Deportes",Fox+ (Guatemala)
+http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/1086010.ts
 #EXTINF:-1 tvg-id="directvsports" tvg-name="Direct TV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" group-title="Deportes",Direct TV Sports
 http://aioplus.es:80/live/ALAM5462/jVf3Q5Bg/825841.ts
 #EXTINF:-1 tvg-id="directvsports2" tvg-name="Direct TV Sports 2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/skuq0t1642114108.png" group-title="Deportes",Direct TV Sports 2
